@@ -33,6 +33,6 @@ class LabCicdApplicationTests {
 
 	@Test
 	void devePassarNaEsteiraTeste5() {
-		assertTrue(true);
+		assertTrue(false);
 	}
 }
